@@ -44,7 +44,7 @@ function Login() {
             </FormItem>
             <div className="form-btn-add">
               <Button htmlType='submit' className='add-new'>Login</Button>
-              <Link className='form-other' to="/register">Register Here!</Link>
+
             </div>
           </Form>
         </div>
